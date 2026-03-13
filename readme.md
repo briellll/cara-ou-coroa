@@ -41,6 +41,9 @@ Durante o desenvolvimento, foquei em aplicar as melhores **convenções do merca
 
 ---
 
+![2026-03-13 01-00-28](https://github.com/user-attachments/assets/1f236f53-4c89-4ef1-83e5-1047d17e24a1)
+
+
 ## 🏁 Como rodar o projeto
 
 1. Clone o repositório:
