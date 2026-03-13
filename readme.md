@@ -41,7 +41,8 @@ Durante o desenvolvimento, foquei em aplicar as melhores **convenções do merca
 
 ---
 
-![2026-03-13 01-00-28](https://github.com/user-attachments/assets/1f236f53-4c89-4ef1-83e5-1047d17e24a1)
+![2026-03-13 01-00-28 (1)](https://github.com/user-attachments/assets/4402d9ff-51b9-45a6-a5f0-cce1c1e4bed0)
+
 
 
 ## 🏁 Como rodar o projeto
